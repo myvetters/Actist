@@ -145,9 +145,9 @@ Website by Websolute
 
                 setTimeout(function(){
                     $('.odometer.first').html(5142);
-                    $('.odometer.second').html(51);
-                    $('.odometer.third').html(422);
-                    $('.odometer.fourth').html(9870);
+                    $('.odometer.second').html(12);
+                    $('.odometer.third').html(254);
+                    $('.odometer.fourth').html(31);
                     $('.odometer.fifth').html(658);
                 }, 0);
             } else {
